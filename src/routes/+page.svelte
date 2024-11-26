@@ -1,9 +1,10 @@
 <link rel="stylesheet" href="/src/css/pico.classless.min.css">
 <title>Home</title>
+<div  style="max-width: fit-content; margin:auto">
 <header>
-    <h1>Random</h1>
+    <h1 style="font-size:6em">Random</h1>
 </header>
-<main>
+<main style="text-align:center">
     <a href="/coin">Flip Coin</a>
     <br/>
     <a href="/die">Roll Die</a>
@@ -15,3 +16,4 @@
         }
     </style>
 </main>
+</div>
